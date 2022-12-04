@@ -1,7 +1,7 @@
-Hello World! My name is Guilherme Henrique de Abreu de Pessoa.
+##Hello World! My name is Guilherme Henrique de Abreu de Pessoa.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@gui.henriiq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-abreu-pessoa) 
 
 # 💻 Tech Stack:
