@@ -1,4 +1,4 @@
-Hello World! My name is Guilherme Henrique de Abreu de Pessoa.
+Hello World! My name is Guilherme Henrique.
 
 
 # 🌐 Socials:
