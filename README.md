@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=23D4C3&width=500&lines=Hello+Word!!+My+name+is+Guilherme+Henrique;I'm+20+years+old+and+from+Sao+Paulo%2C+SP;I'm+a+systems+analysis+and+development+student;Be+Welcome!!+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=23D4C3&width=1000&lines=Hello+Word!!+My+name+is+Guilherme+Henrique;I'm+20+years+old+and+from+Sao+Paulo%2C+SP;I'm+a+systems+analysis+and+development+student;Be+Welcome!!+%3A)+)](https://git.io/typing-svg)
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@gui.henriiq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-abreu-pessoa) 
