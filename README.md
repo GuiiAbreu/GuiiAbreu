@@ -17,10 +17,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiAbreu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuiiAbreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiAbreu&layout=compact&theme=tokyonight&langs_count=7" />
-</p>
+</p> -->
 
 ## Socials
 <a href="https://www.linkedin.com/in/guilherme-abreu-pessoa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
