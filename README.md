@@ -32,4 +32,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=GuiiAbreu&icon=5&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiiAbreu&theme=tokyonight" /><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuiiAbreu&show_icons=true&theme=tokyonight" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
