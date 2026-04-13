@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=23D4C3&center=true&vCenter=true&width=1000&lines=Hello+Word!!+My+name+is+Guilherme+Henrique;I'm+22+years+old+and+from+Sao+Paulo%2C+SP;I'm+a+systems+analysis+and+development+student;Be+Welcome!!:%29)](https://git.io/typing-svg)
 
-<div align="left"> 
+<!-- <div align="left"> 
   <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=GuiiAbreu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
@@ -15,7 +15,7 @@
     
 </picture>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiAbreu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+</div> -->
 
 ## Socials
 <a href="https://www.linkedin.com/in/guilherme-abreu-pessoa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
